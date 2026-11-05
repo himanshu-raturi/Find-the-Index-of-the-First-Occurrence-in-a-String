@@ -12,3 +12,4 @@ Python solution utilize the standard library string search functions (`find()`).
 ## Complexity
 - **Time Complexity:** $O(N \times M)$ in the worst case (where $N$ is the length of `haystack` and $M$ is the length of `needle`), but $O(N)$ on average due to language-level optimizations.
 - **Space Complexity:** $O(1)$ since no additional space scaling with input size is used.
+**Solution:** https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1444546423
